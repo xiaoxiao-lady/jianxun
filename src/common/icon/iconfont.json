@@ -1,0 +1,44 @@
+{
+  "id": "1441073",
+  "name": "卫宁",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "508247",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "687177",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "1272712",
+      "name": "主页",
+      "font_class": "home-g",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "1311616",
+      "name": "点餐",
+      "font_class": "diancan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2423300",
+      "name": "无数据",
+      "font_class": "wushuju",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
